@@ -13,7 +13,7 @@ const color = useState('color', () => colors[Math.floor(Math.random() * colors.l
       to="/"
       external
     >
-      refresh
+      change color
     </NuxtLink>
   </div>
 </template>
